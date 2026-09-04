@@ -106,11 +106,3 @@ Open the .pbix file. (If prompted for the data source path, map the source file 
 
 Refresh the dataset to load visuals and slicers.
 
-📬 Contact & Portfolio
-Name: [Your Name]
-
-Email: [Your Email Address]
-
-LinkedIn: [Your LinkedIn Profile URL]
-
-Portfolio / GitHub: [Your Link]

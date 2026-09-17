@@ -53,11 +53,11 @@ Using a dataset of **50,000 global e-commerce customer transactions**, I designe
 ---
 <img width="1332" height="748" alt="Screenshot 2026-09-04 084112" src="https://github.com/user-attachments/assets/b9cf6aab-887a-4676-b07f-8cdbf1367179" />
 ### Page 3: Churn Risk & Retention Operations
-- **Primary Focus:** Identifying retention bottlenecks and serving operational target lists to customer success teams.
-- **Key KPIs:** High Churn Risk Customers (2,702), Revenue at Risk ($122.12M), Average CSAT (3.01 / 5), and Average Complaints (7.0 per user).
-- **Core Visuals:**
-  - **Churn Risk Breakdown:** Donut chart isolating accounts flagged in High and Very High risk categories.
-  - **Revenue at Risk by Segment:** Identifies that Consumer accounts carry the largest gross risk ($54.07M), while Enterprise and Small Business clients present high individual value exposure.
+ **Primary Focus:** Identifying retention bottlenecks and serving operational target lists to customer success teams.
+**Key KPIs:** High Churn Risk Customers (2,702), Revenue at Risk ($122.12M), Average CSAT (3.01 / 5), and Average Complaints (7.0 per user).
+ **Core Visuals:**
+   **Churn Risk Breakdown:** Donut chart isolating accounts flagged in High and Very High risk categories.
+   **Revenue at Risk by Segment:** Identifies that Consumer accounts carry the largest gross risk ($54.07M), while Enterprise and Small Business clients present high individual value exposure.
   - **Service Friction Analysis:** Charting the direct correlation between complaint counts, return frequency, and low customer satisfaction scores.
   - **Operational Retention Target Table:** A filtered, descending-spend table ranking the most critical at-risk accounts (e.g., spend > $190K, days inactive > 200) with color-coded churn risk indicators for targeted win-back campaigns.
 

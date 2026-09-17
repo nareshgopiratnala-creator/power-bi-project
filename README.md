@@ -1,5 +1,5 @@
 
-# power-bi-project
+# Power-bi-project
 # E-Commerce Customer Segmentation & Retention Analytics (Power BI)
 
 ## 📌 Project Overview
